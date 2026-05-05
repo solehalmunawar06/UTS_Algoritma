@@ -1,9 +1,6 @@
 # UTS_Algoritma
 
-# Program mengurutkan data secara ascending(dari kecil ke besar) dan descending(dari besar ke kecil
-
-package ProjectUTS; (Folder tempat class disimpan
-
+package ProjectUTS;
 public class SortingArray {
     public static void main(String[] args) {
         int[] A = {200, 50, 10, 4, 300, 1};
@@ -45,3 +42,4 @@ public class SortingArray {
         }
     }
 }
+
